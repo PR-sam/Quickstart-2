@@ -9,7 +9,7 @@ draft = false
 This is a good film..
 
 
-![](/assets/images/county-lines_cover.jpeg)
+![](./assets/images/county-lines_cover.jpeg)
 
 ![](/assets/images/county-lines_cover.jpeg)
 
