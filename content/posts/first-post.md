@@ -8,22 +8,20 @@ draft = false
 
 This is a good film..
 
-A
+**A**
 ------
+
+
 ![](./assets/images/county-lines_cover.jpeg)
 
-B
+
+
+**B**
 ---
 ![](/Quickstart-2/assets/images/county-lines_cover.jpeg)
 
-C
+**C**
 ---
 ![](images/county-lines_cover.jpeg)
 
-Repeat:
-
-./assets/images/county-lines_cover.jpeg
-
-/assets/images/county-lines_cover.jpeg
-
-images/county-lines_cover.jpeg
+End
