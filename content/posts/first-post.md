@@ -10,9 +10,6 @@ This is a good film..
 
 
 
-![](./assets/images/county-lines_cover.jpeg)
-
-
 
 **B**
 ---
