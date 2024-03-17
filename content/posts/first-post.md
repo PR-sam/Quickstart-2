@@ -11,7 +11,7 @@ This is a good film..
 
 ![](./assets/images/county-lines_cover.jpeg)
 
-![](/assets/images/county-lines_cover.jpeg)
+![](/Quickstart-2/assets/images/county-lines_cover.jpeg)
 
 ![](images/county-lines_cover.jpeg)
 
