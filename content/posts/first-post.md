@@ -9,15 +9,15 @@ draft = false
 This is a good film..
 
 A
-
+------
 ![](./assets/images/county-lines_cover.jpeg)
 
 B
-
+---
 ![](/Quickstart-2/assets/images/county-lines_cover.jpeg)
 
 C
-
+---
 ![](images/county-lines_cover.jpeg)
 
 Repeat:
