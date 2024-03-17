@@ -8,8 +8,6 @@ draft = false
 
 This is a good film..
 
-**A**
-------
 
 
 ![](./assets/images/county-lines_cover.jpeg)
