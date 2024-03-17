@@ -13,4 +13,4 @@ This is a good film..
 
 ![](/assets/images/county-lines_cover.jpeg)
 
-![](/images/county-lines_cover.jpeg)
+![](images/county-lines_cover.jpeg)
