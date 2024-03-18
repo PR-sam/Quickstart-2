@@ -18,6 +18,6 @@ This is a good film..
 
 **C**
 ---
-![](/images/county-lines_cover.jpeg)
+![](images/county-lines_cover.jpeg)
 
 End
