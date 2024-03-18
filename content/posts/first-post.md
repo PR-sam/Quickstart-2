@@ -10,8 +10,6 @@ This is a good film..
 
 **A**
 
-A
-
 
 **B**
 ---
