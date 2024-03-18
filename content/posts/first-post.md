@@ -10,7 +10,7 @@ This is a good film..
 
 **A**
 ---
-![](assets/images/county-lines_cover.jpeg)
+![](/Quickstart-2/assets/images/county-lines_cover.jpeg)
 
 **B**
 ---
