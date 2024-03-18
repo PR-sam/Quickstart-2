@@ -9,7 +9,8 @@ draft = false
 This is a good film..
 
 **A**
-
+---
+![](images/county-lines_cover.jpeg)
 
 **B**
 ---
